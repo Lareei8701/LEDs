@@ -1,4 +1,4 @@
-# electronics-task-1
+
 # Arduino Button-Controlled LEDs (Tinkercad Simulation)
 A simple circuit where 3 pushbuttons control 3 LEDs using Arduino Uno.
 
